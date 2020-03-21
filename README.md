@@ -1,18 +1,25 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
-Congratulations! If you are about to start this project, it means you already have enough knowledge to start doing interesting stuff.
+Everyone knows instagram, it's an ideal fun exercise to practice your begginer HTML/CSS skills. On this project will be exercising the following concepts:
 
-*Deliver, deliver, deliver!*
+- Reusing CSS classes.
+- Display and Position CSS Rules.
+- Building a layout with CSS/HTML.
+- Centering containers.
+- Flow left and right.
+- Importing images.
 
-From now on you are going to be treated as a developer, and good developers are the ones that deliver. We are not going to give you stickers for effort, just like in real life your performance is measured on productivity. Period.
+## 📝 Instructions
 
-## Instructions
+Using everything you have learned with HTML and CSS3, please create a website that replicates this picture in every way (pixel perfect):
 
-Using everything you have learned with HTML and CSS3, please create a website that replicates [this picture](https://projects.breatheco.de/json?slug=instagram-feed&preview) in every way (pixel perfect).
+<img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> 
+
+[Click here to expand](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true)
 
 Use the display property like in the old days or the new flex CSS property to make the posts feed.
 
-## Resources
+## 📒 Resources
 
 - [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from the net ninja is amazing to start understanding the flexbox.
 
