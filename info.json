@@ -1,0 +1,16 @@
+{
+	"title" : "Simple Instagram Photo Feed",
+	"slug" : "instagram-feed",
+	"status": "published",
+	"solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
+	"duration" : 6,
+	"description" : "Very simple instagram simulation to understand the basics of CSS and HTML5 and how to use them together to create a website.",
+	"talents": [
+		{ "badge": "identator", "points": 10 },
+		{ "badge": "tag-master", "points": 10 },
+		{ "badge": "path-master", "points": 10 },
+		{ "badge": "select-everything", "points": 10 },
+		{ "badge": "be-dry", "points": 10 },
+		{ "badge": "abc", "points": 10 }
+	]
+}
