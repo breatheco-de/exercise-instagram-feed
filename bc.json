@@ -5,6 +5,7 @@
 	"solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
 	"duration" : 6,
 	"description" : "Very simple instagram simulation to understand the basics of CSS and HTML5 and how to use them together to create a website.",
+	"preview": "https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true",
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
