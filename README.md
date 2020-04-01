@@ -23,4 +23,8 @@ Use the display property like in the old days or the new flex CSS property to ma
 
 - [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from the net ninja is amazing to start understanding the flexbox.
 
-Please discuss with your coding partner, any other student or mentor about any questions you may have. Coding is hard for everyone.
+- Here is the strategy for the exercise: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
+
+- Please discuss with your coding partner, any other student or mentor about any questions you may have. Coding is hard for everyone.
+
+
