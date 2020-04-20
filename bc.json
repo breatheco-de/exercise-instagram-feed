@@ -2,6 +2,7 @@
 	"title" : "Simple Instagram Photo Feed with HTML/CSS",
 	"slug" : "instagram-feed",
 	"status": "published",
+	"translations": ["es", "en"],
 	"difficulty": "beginner",
 	"solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
 	"duration" : 6,
