@@ -1,19 +1,29 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
-¡Felicidades! Si está a punto de comenzar este proyecto, significa que ya tiene suficiente conocimiento para comenzar a hacer cosas interesantes.
+Todo el mundo conoce instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarán los siguientes conceptos:
 
-*¡Entrega, entrega, entrega!*
+- Reutilizar clases de CSS.
+- Reglas de CSS de Display y Position.
+- Construir un layout con CSS/HTML.
+- Centrar contenedores.
+- Flow left y right.
+- Importar imágenes.
 
-A partir de ahora, serás tratado como un desarrollador, y los buenos desarrolladores son los que cumplen. No le daremos calcomanías por esfuerzo, al igual que en la vida real, su rendimiento se mide en productividad. Período.
+## 📝 Instrucciones
 
-## Instrucciones
+Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que replique esta imagen (pixel perfect):
 
-Usando todo lo que ha aprendido con HTML y CSS3, cree un sitio web que se replique [esta imagen](https://projects.breatheco.de/json?slug=instagram-feed&preview) en todos los sentidos (píxel perfecto).
+<img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> 
 
-Utilice la propiedad de visualización como en los viejos tiempos o la nueva propiedad de flex CSS para hacer que las publicaciones se alimenten.
+[Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true)
 
-## Recursos
+Usa la propiedad display como en los viejos tiempos o la nueva propiedad CSS flex para hacer el posts feed.
 
-- [Este video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) desde la red, el ninja es increíble para comenzar a entender el flexbox.
+## 📒 Recursos
 
-Discuta con su compañero de codificación, cualquier otro estudiante o mentor sobre cualquier pregunta que pueda tener. La codificación es difícil para todos.
+- [Este video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) de la red ninja es increíble para comenzar a entender el flexbox.
+
+- Aquí tienes la estrategia para el ejercicio: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
+
+- Por favor discute con tu compañero de programación, cualquier otro estudiante o tu mentor sobre cualquier pregunta que puedas tener. Programar es difícil para todos.
+
