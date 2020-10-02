@@ -1,6 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
-Todo el mundo conoce iInstagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicaras los siguientes conceptos:
+Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarás los siguientes conceptos:
 
 - Reutilizar clases de CSS.
 - Reglas de CSS de Display y Position.
