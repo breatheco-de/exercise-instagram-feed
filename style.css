@@ -1,0 +1,41 @@
+section{
+    background-color: gray;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    background: white;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.parent .card{
+position: absolute;
+left: 0;
+right: 0;
+margin: auto;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.small{
+    float: right;
+    font-size: small;
+
+}
+
+h4{
+    float: left;
+      overflow: auto;
+}
