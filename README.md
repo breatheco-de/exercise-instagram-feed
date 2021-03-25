@@ -34,9 +34,9 @@ Using everything you have learned with HTML and CSS3, please create a website th
 
 Or you can use these images:
 
-![imagen 1 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
-![imagen 2 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
-![imagen 3 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-6.png?raw=true)
+![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
+![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
+![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true)
 
 Use the display property like in the old days or the new flex CSS property to make the posts feed.
 
