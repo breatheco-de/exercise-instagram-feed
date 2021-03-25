@@ -14,11 +14,11 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed.git
 
 b) You can clone this repository on your local computer:
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-postcard.git
+$ git clone https://github.com/breatheco-de/exercise-instagram-feed.git
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
