@@ -9,6 +9,21 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 - Flow left and right.
 - Importing images.
 
+
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, but you have two options to start:
+
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-instagram-feed.git
+```
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+
 ## 📝 Instructions
 
 Using everything you have learned with HTML and CSS3, please create a website that replicates this gif in every way (pixel perfect):
@@ -19,9 +34,9 @@ Using everything you have learned with HTML and CSS3, please create a website th
 
 Or you can use these images:
 
-![imagen 1 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
-![imagen 2 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
-![imagen 3 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-6.png?raw=true)
+![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
+![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
+![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true)
 
 Use the display property like in the old days or the new flex CSS property to make the posts feed.
 

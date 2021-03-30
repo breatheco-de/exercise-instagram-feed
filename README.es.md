@@ -17,9 +17,9 @@ Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que 
 
 ([Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
 
-o bien puedes utilizar, la ![imagen 1 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-3.png?raw=true), 
-![imagen 2 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-5.png?raw=true), 
-o ![imagen 3 ](https://github.com/ElviraQDP/exercise-instagram-feed/blob/master/inst-6.png?raw=true), 
+o bien puedes utilizar, la ![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true), 
+![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true), 
+o ![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true), 
 
 Usa la propiedad display como en los viejos tiempos o la nueva propiedad CSS flex para hacer el posts feed.
 
