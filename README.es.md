@@ -9,6 +9,20 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 - Flow left y right.
 - Importar imágenes.
 
+## 🌱  Cómo iniciar este proyecto
+
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+
+a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed.
+
+b) Clonar este repositorio localmente en tu computador:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-instagram-feedjest.git
+```
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+
 ## 📝 Instrucciones
 
 Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que replique este gif (pixel perfect):
