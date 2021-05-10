@@ -9,6 +9,20 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 - Flow left y right.
 - Importar imágenes.
 
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+```sh
+git clone  git clone https://github.com/4GeeksAcademy/html-hello
+```
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+
 ## 📝 Instrucciones
 
 Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que replique este gif (pixel perfect):
@@ -17,9 +31,13 @@ Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que 
 
 ([Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
 
-o bien puedes utilizar, la ![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true), 
-![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true), 
-o ![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true), 
+o bien puedes usar estas imagenes:
+
+![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
+
+![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
+
+![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true), 
 
 Usa la propiedad display como en los viejos tiempos o la nueva propiedad CSS flex para hacer el posts feed.
 
