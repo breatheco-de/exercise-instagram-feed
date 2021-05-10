@@ -11,13 +11,13 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 
 ## 🌱  Cómo iniciar este proyecto
 
-Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
 
-a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed.
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
-b) Clonar este repositorio localmente en tu computador:
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-instagram-feedjest.git
+git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
