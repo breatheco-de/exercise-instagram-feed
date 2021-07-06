@@ -16,7 +16,11 @@ This project does not come with the necesary files to start working, we recomend
 
 a) If using Gitpod you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
 
-b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/html-hello`.
+b) If working locally type the following command from your command line: 
+
+```bash
+$ git clone https://github.com/4GeeksAcademy/html-hello
+```
 
 💡 Important: Remember to create a new repository to save your profress and update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
