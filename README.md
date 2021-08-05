@@ -22,7 +22,7 @@ b) If working locally type the following command from your command line:
 $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Important: Remember to create a new repository to save your profress and update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+💡 Important: Remember to create a new repository to save your progress and add the new remote (`git remote add new_origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `git push new_origin <branch>`.
 
 
 
