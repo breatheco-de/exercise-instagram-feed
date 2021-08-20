@@ -12,7 +12,7 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 ## 🌱  How to start this project
 
-This project does not come with the necesary files to start working, we recomend you start coding from an empty boilerplate.
+This project does not come with the necesary files to start working, we recommend you start coding from an empty boilerplate.
 
 a) If using Gitpod you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
 
