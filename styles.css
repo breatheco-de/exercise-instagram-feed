@@ -1,0 +1,35 @@
+body {background-color: #D9DAD8;
+margin: 0;
+}
+header h1 { 
+	background: white;
+	margin: 0;
+	padding: 7px;
+	font-family: font-family: Arial, Helvetica, sans-serif;
+}
+div.post {background: white;
+	margin: 14px;
+	
+ }
+div.container {
+	width: 600px;
+	margin: auto;
+	padding-top: 10px;
+	font-family: cursive;
+}
+div.post img { 
+	width: 100%; 
+}
+div.post h2, p {
+	padding: 8px;
+	margin: 0;
+}
+div.post .post-header div:first-child {
+	display: inline-block;
+	width: 80%;
+}
+div.post .post-header div:last-child {
+	display: inline-block;
+	width: 20%;
+	text-align: center-right;
+}
