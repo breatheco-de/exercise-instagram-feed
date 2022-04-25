@@ -1,5 +1,6 @@
+<!-- hide -->
 # The Instagram Photo Feed
-
+<!-- endhide -->
 Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarás los siguientes conceptos:
 
 - Reutilizar clases de CSS.
