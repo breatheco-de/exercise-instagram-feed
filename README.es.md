@@ -16,6 +16,7 @@ Este proyecto no tiene todos los archivos necesarios para trabajar, te recomenda
 a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+
 ```sh
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
