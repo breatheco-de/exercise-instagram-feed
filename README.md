@@ -1,7 +1,7 @@
 <!-- hide -->
 # The Instagram Photo Feed
 <!-- endhide -->
-Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project will be exercising the following concepts:
+Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project you will be exercising the following concepts:
 
 - Reusing CSS classes.
 - Display and Position CSS Rules.
