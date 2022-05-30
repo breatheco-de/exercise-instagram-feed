@@ -1,5 +1,5 @@
 <!-- hide -->
-# The Instagram Photo Feed
+# Carrusel de fotos sencillo de Instagram con HTML/CSS
 <!-- endhide -->
 Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarás los siguientes conceptos:
 
