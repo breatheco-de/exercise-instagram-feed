@@ -29,7 +29,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que replique este gif (pixel perfect):
 
-<img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> 
+<img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> <--- Deberia tener los icono de mensaje y liked debajo de la imagen -->  <
 
 ([Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
 
