@@ -33,7 +33,7 @@ Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que 
 
 ([Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
 
-o bien puedes usar estas imagenes:
+o bien puedes usar estas imágenes:
 
 ![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
 
