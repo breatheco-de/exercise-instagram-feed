@@ -29,5 +29,7 @@
 		{"seconds": "811","description": "Padding for text separation"},
 		{"seconds": "896","description": "Using display inline-block"},
 		{"seconds": "1336","description": "Last little details"}
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
