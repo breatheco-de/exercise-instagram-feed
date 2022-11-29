@@ -19,7 +19,7 @@ a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https:
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 
 ```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+$ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
