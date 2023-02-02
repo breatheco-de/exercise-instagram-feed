@@ -1,7 +1,8 @@
 <!-- hide -->
 # The Instagram Photo Feed
 <!-- endhide -->
-Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project you will be exercising the following concepts:
+
+Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project, you will be exercising the following concepts:
 
 - Reusing CSS classes.
 - Display and Position CSS Rules.
@@ -15,9 +16,9 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 This project does not come with the necessary files to start working, we recommend you start coding from an empty boilerplate.
 
-a) If using Gitpod you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
+a) If using Gitpod, you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
 
-b) If working locally type the following command from your command line: 
+b) If working locally, type the following command from your command line: 
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/html-hello
@@ -50,6 +51,6 @@ Use the display property like in the old days or the new flex CSS property to ma
 
 - Here is the strategy for the exercise: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
 
-- Please discuss with your coding partner, any other student or mentor about any questions you may have. Coding is hard for everyone.
+- Please discuss with your coding partner, any other student, or mentor any questions you may have. Coding is hard for everyone.
 
 

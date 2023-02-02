@@ -1,6 +1,7 @@
 <!-- hide -->
-# The Instagram Photo Feed
+# El Feed de Fotos de Instagram
 <!-- endhide -->
+
 Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto practicarás los siguientes conceptos:
 
 - Reutilizar clases de CSS.
@@ -31,7 +32,7 @@ Usando todo lo que has aprendido con HTML y CSS3, por favor crea un website que 
 
 <img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> 
 
-([Click aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
+([Clic aquí para expandir](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
 
 o bien puedes usar estas imágenes:
 
