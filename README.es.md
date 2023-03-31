@@ -12,18 +12,17 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 
 ## 🌱  ¿Cómo iniciar este proyecto?
 
-Este proyecto no tiene todos los archivos necesarios para trabajar, te recomendamos empezar a programar utilizando un boilerplate. 
+No abras este repositorio, utilizaremos otro template para empezar a programar.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que debes abrir:
 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+```
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
-
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
 
 ## 📝 Instrucciones
 
