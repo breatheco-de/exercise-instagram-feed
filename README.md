@@ -13,19 +13,15 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 ## 🌱  How to start this project
 
-This project does not come with the necessary files to start working, we recommend you start coding from an empty boilerplate.
+Do not clone this repository because we are going to be using a different template.
 
-a) If using Gitpod you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
+The first step to start coding is opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) (recommended) or cloning it on your local computer. This is the repository you need to open:
 
-b) If working locally type the following command from your command line: 
-
-```bash
-$ git clone https://github.com/4GeeksAcademy/html-hello
+```
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Important: Remember to create a new repository to save your progress and add the new remote (`git remote add new_origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `git push new_origin <branch>`.
-
-
+**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 
 ## 📝 Instructions
