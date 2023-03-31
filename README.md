@@ -15,7 +15,7 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 Do not clone this repository because we are going to be using a different template.
 
-The first step to start coding is opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) (recommended) or cloning it on your local computer. This is the repository you need to open:
+The first step to start coding is opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) (recommended) or cloning it on your local computer. This is the repository you need to open:
 
 ```
 https://github.com/4GeeksAcademy/html-hello
