@@ -15,9 +15,9 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 
 Do not clone this repository because we are going to be using a different template.
 
-We recommend to open the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it to your local computer using the `git clone` command. This is the repository you need to open:
+We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it to your local computer using the `git clone` command. This is the repository you need to open:
 
-```
+```text
 https://github.com/4GeeksAcademy/html-hello
 ```
 
@@ -41,10 +41,10 @@ Use the display property like in the old days or the new flex CSS property to ma
 
 ## 📒 Resources
 
-- [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from the net ninja is amazing to start understanding the flexbox.
+- [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from "The Net Ninja" is amazing to start understanding flexbox.
 
 - Here is the strategy for the exercise: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
 
-- Please discuss with your coding partner, any other student or mentor about any questions you may have. Coding is hard for everyone.
+- Please discuss with your coding partner, any other student, or mentor about any questions you may have. Coding is hard for everyone.
 
 
