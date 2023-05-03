@@ -12,7 +12,7 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 
 ## 🌱  ¿Cómo iniciar este proyecto?
 
-No abras este repositorio, utilizaremos otro template para empezar a programar.
+No abras este repositorio, utilizaremos otro *template* para empezar a programar.
 
 Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
