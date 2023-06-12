@@ -41,7 +41,7 @@ Use the display property like in the old days or the new flex CSS property to ma
 
 ## 📒 Resources
 
-- [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from "The Net Ninja" is amazing to start understanding flexbox.
+- [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from ["The Net Ninja"](https://netninja.dev/) is amazing to start understanding flexbox.
 
 - Here is the strategy for the exercise: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
 
