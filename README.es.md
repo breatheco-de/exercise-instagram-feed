@@ -10,11 +10,11 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 - Flow left y right.
 - Importar imágenes.
 
-## 🌱  ¿Cómo iniciar este proyecto?
+## 🌱 ¿Cómo iniciar este proyecto?
 
 No abras este repositorio, utilizaremos otro *template* para empezar a programar.
 
-Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
+Recomendamos que abras el repositorio `html template` utilizando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
 Este es el repositorio que debes abrir:
 
