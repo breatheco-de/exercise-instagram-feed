@@ -11,7 +11,7 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 - Importing images.
 
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
 
