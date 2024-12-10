@@ -11,7 +11,8 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 - Flow left and right.
 - Importing images.
 
-
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
@@ -25,6 +26,8 @@ https://github.com/4GeeksAcademy/html-hello
 ```
 
 **👉 Please follow these steps** on [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
+</onlyfor>
 
 ## 📝 Instructions
 

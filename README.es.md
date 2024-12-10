@@ -11,6 +11,8 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 - Flow left y right.
 - Importar imágenes.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 ¿Cómo iniciar este proyecto?
 
 No abras este repositorio, utilizaremos otro *template* para empezar a programar.
@@ -24,6 +26,8 @@ https://github.com/4GeeksAcademy/html-hello
 ```
 
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
