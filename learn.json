@@ -6,7 +6,6 @@
 	"difficulty": "beginner",
 	"solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
 	"duration" : 6,
-	"agent": "vscode"
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"description" : "Very simple instagram simulation to understand the basics of CSS and HTML5 and how to use them together to create a website.",
 	"preview": "https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true",
@@ -32,6 +31,9 @@
 		{"seconds": "896","description": "Using display inline-block"},
 		{"seconds": "1336","description": "Last little details"}
 	],
+    "editor": {
+	"agent": "vscode"
+    },
     "autoPlay": false,
     "projectType": "project"
 }
