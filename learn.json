@@ -33,7 +33,7 @@
 	],
     "editor": {
 	"agent": "vscode"
-    },
+    }
     "autoPlay": false,
     "projectType": "project"
 }
