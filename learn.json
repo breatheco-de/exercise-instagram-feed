@@ -1,5 +1,8 @@
 {
-	"title" : "Simple Instagram Photo Feed with HTML/CSS",
+	"title" : {
+		"us": "Simple Instagram Photo Feed with HTML/CSS",
+		"es": "Feed simple de fotos de Instagram con HTML/CSS"
+	},
 	"slug" : "instagram-feed",
 	"status": "published",
 	"translations": ["es", "en"],
@@ -7,7 +10,10 @@
 	"solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
 	"duration" : 6,
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
-	"description" : "Very simple instagram simulation to understand the basics of CSS and HTML5 and how to use them together to create a website.",
+	"description" : {
+		"us": "Learn the basics of HTML5 and CSS by creating a simple Instagram photo feed simulation. This project helps you practice essential web development skills, like reusing CSS classes, building layouts, centering elements, and positioning",
+		"es": "Aprende los conceptos básicos de HTML5 y CSS creando una sencilla simulación de un feed de fotos de Instagram. Este proyecto te ayudará a practicar habilidades esenciales de desarrollo web, como reutilizar clases de CSS, construir diseños, centrar elementos y trabajar con posicionamiento."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true",
 	"technologies": ["html", "css", "flex-box", "layouts", "css-grid", "html/css"],
 	"talents": [
@@ -31,9 +37,13 @@
 		{"seconds": "896","description": "Using display inline-block"},
 		{"seconds": "1336","description": "Last little details"}
 	],
+"telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=164"
+    },
     "editor": {
 	"agent": "vscode"
-    }
+	    
+    },
     "autoPlay": false,
     "projectType": "project"
 }
