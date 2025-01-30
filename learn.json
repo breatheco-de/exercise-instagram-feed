@@ -1,5 +1,5 @@
 {
-	"gitpod": true,
+	"gitpod": "True",
 	"title" : {
 		"us": "Simple Instagram Photo Feed with HTML/CSS",
 		"es": "Feed simple de fotos de Instagram con HTML/CSS"
